@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{30F2F631-405B-43B8-A2B6-9D93FC6D0476}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ID_CARD</RootNamespace>
+    <AssemblyName>ID CARD</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="SmsClient">
+      <HintPath>..\..\..\..\..\Desktop\SMS\Bin\SmsClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Student.Designer.cs">
+      <DependentUpon>Add Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fullPath_class.cs" />
+    <Compile Include="Leaving School Procedure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leaving School Procedure.Designer.cs">
+      <DependentUpon>Leaving School Procedure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student DBMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student DBMS.Designer.cs">
+      <DependentUpon>Student DBMS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Remove Student .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remove Student .Designer.cs">
+      <DependentUpon>Remove Student .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search Student.Designer.cs">
+      <DependentUpon>Search Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Student.Designer.cs">
+      <DependentUpon>Update Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Student.resx">
+      <DependentUpon>Add Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leaving School Procedure.resx">
+      <DependentUpon>Leaving School Procedure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student DBMS.resx">
+      <DependentUpon>Student DBMS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Remove Student .resx">
+      <DependentUpon>Remove Student .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search Student.resx">
+      <DependentUpon>Search Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Student.resx">
+      <DependentUpon>Update Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idcard-template-f-scm-22-webbience.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temp_Form2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Review_DB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_db.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_db.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_db1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_db.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_screen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ID_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector-business-cards-set5-12-by-dragonart.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

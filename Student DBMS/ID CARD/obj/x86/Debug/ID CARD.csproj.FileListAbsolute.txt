@@ -1,0 +1,49 @@
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\bin\Debug\ID CARD.exe
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\bin\Debug\ID CARD.pdb
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.add_db.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.ID_CARD.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.ID_background.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Id_name_check.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.leave_school.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.message.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.main_menu.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Properties.Resources.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.remove_db.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.review_DB.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.update.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Welcome.resources
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.csproj.GenerateResource.Cache
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.exe
+C:\Users\Akash\documents\visual studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.pdb
+C:\Users\Akash\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID CARD.exe
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID CARD.pdb
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\bin\Debug\ID CARD.exe
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\bin\Debug\ID CARD.pdb
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID CARD.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.add_db.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.ID_CARD.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.ID_background.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Id_name_check.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.leave_school.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.main_menu.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Properties.Resources.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.remove_db.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.review_DB.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.update.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Welcome.resources
+C:\Users\Vivek Kumar\Downloads\Compressed\ID CARD\ID CARD\obj\x86\Debug\ID CARD.csproj.GenerateResource.Cache
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.exe
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.pdb
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\bin\Debug\ID CARD.exe
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\bin\Debug\ID CARD.pdb
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.add_db.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.leave_school.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.main_menu.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Properties.Resources.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.remove_db.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.review_DB.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.update.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID_CARD.Welcome.resources
+C:\Users\Vivek Kumar\Documents\Visual Studio 2010\Projects\ID CARD\ID CARD\obj\x86\Debug\ID CARD.csproj.GenerateResource.Cache
